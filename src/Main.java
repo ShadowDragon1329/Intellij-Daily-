@@ -12,13 +12,13 @@ public class Main {
 
      //variable types
 
-        int studentAge=13;
+      /*  int studentAge=13;
     long studentDebt = 3_123_456_789L;
     float studentMarks=39.5F;
     double studentPercentage=99.99;
     char studentGrade='O';
     boolean isPass =true;
-
+*/
     //Date package
         Date now =new Date();
     //sout is shortcut for System.out.println();
