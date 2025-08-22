@@ -26,6 +26,7 @@ public void runCode(){
     double n4=(Math.random()*100);
     System.out.println(n1 +" "+ n2 +" "+ n3 +" "+ n4);
 
+    System.out.println("\nDay 2 Ends Here!!!!\n");
 
 }
 }

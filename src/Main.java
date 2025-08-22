@@ -10,6 +10,8 @@ public class Main {
         d1.runCode();
         Day2 d2 =new Day2();
         d2.runCode();
+        Day3 d3 =new Day3();
+        d3.runCode();
 
     }
 }
